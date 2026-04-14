@@ -42,4 +42,4 @@ Arquivos gerados durante a avaliação de Lógica de programação, algoritmos e
     getch();
 	}
 ```
-![Fluxograma](./atendimento.png)
+![Fluxograma](./triagem.png)
