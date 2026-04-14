@@ -16,11 +16,11 @@ Arquivos gerados durante a avaliação de Lógica de programação, algoritmos e
   - 2 Abra os arquivos .c com o DevC++
   - 3 Pressione F11 para compilar executar
 
-    ## Exemplo de código
-    ```c
+## Exemplo de código
+```c
     #include<stdio.h>
-#include<windows.h>
-void main(){
+    #include<windows.h>
+    void main(){
 	SetConsoleOutputCP(CP_UTF8);
 	char nome[20], sexo;
 	int idade;
@@ -40,5 +40,5 @@ void main(){
 	  }
     }
     getch();
-}
+	}
 ```
